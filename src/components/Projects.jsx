@@ -62,7 +62,7 @@ const projects = [
   {
     title: "Fuzzy Logic-Based Stock Trading with Genetic Optimization",
     description: "Implemented a stock trading strategy optimized with fuzzy logic and genetic algorithms.",
-    image: "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200110154806/What-is-the-Role-of-Fuzzy-Logic-in-Algorithmic-Trading-1024x563.png",
+    image: "https://static.vecteezy.com/system/resources/previews/002/116/523/non_2x/investment-decision-in-volatile-stock-market-concept-vector.jpg",
     link: "#",
     github: "#",
   },
