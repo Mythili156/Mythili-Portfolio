@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Asset Tracking Systems using Blockchain Technology",
     description: "Built a secure asset tracking system leveraging blockchain for immutable records.",
-    image: "/public/asset.png",
+    image: "https://bestbarcodeworld.com/wp-content/uploads/2020/02/asset-tracking.png",
     link: "#",
     github: "#",
   },
