@@ -57,7 +57,7 @@ const projects = [
   {
     title: "Financial Chatbot using Python",
     description: "Built a Python-based chatbot to answer financial queries and provide investment insights.",
-    image: "/public/chatbot.png",
+    image: "https://files.realpython.com/media/Chatterbot-Build-a-Chatbot-With-Python_Watermarked.07a26197ef70.jpg",
     link: "#",
     github: "#",
   },
