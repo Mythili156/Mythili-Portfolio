@@ -50,7 +50,7 @@ const projects = [
   {
     title: "Credit Card Fraud Detection using Deep Learning",
     description: "Created a deep learning model to detect fraudulent credit card transactions in real-time.",
-    image: "/public/credit.png",
+    image: "https://www.xenonstack.com/hubfs/xenonstack-credit-card-fraud-detection.png",
     link: "#",
     github: "#",
   },
