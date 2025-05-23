@@ -1,0 +1,10 @@
+
+
+html, body {
+  min-height: 100%;
+  margin: 0;
+  background-color: #0a192f;
+  color: white;
+  scroll-behavior: smooth;
+  font-family: 'Segoe UI', sans-serif;
+}
