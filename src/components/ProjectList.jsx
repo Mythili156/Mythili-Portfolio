@@ -36,7 +36,7 @@ const projects = [
   {
     title: "Gym Fitness Web Application",
     description: "Full-stack web app for gym management including scheduling, trainers, and users.",
-    image: "/public/gym.png",
+    image: "https://s.hdnux.com/photos/01/21/13/47/21281228/7/rawImage.jpg",
     link: "#",
     github: "#",
   },
