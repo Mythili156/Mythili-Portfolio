@@ -43,7 +43,7 @@ const projects = [
   {
     title: "Real-Time Equity Analysis Web Application",
     description: "Developed a web app providing live equity market insights with AI analysis.",
-    image: "/public/equity.png",
+    image: "https://th.bing.com/th/id/OIP.tViJkwsX1yHAd_R_tPKvVgHaEL?cb=iwp2&w=600&h=338&rs=1&pid=ImgDetMain",
     link: "#",
     github: "#",
   },
