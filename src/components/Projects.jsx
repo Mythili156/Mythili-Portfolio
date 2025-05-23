@@ -6,7 +6,7 @@ const projects = [
   {
     title: "Fake Product Link Detection using AI",
     description: "Developed AI-based system to detect fraudulent product URLs to protect consumers.",
-    image: "https://s3.us-east-2.amazonaws.com/suffescom.com/17000257296554558112e63.webp",
+    image: "https://www.syntacticsinc.com/wp-content/uploads/2020/10/15255.jpg",
     link: "#",
     github: "#",
   },
