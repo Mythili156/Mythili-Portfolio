@@ -20,7 +20,7 @@ const projects = [
   {
     title: "IoT - Smart Parking System",
     description: "Implemented an IoT-enabled system for real-time parking slot availability monitoring.",
-    image: "https://www.geospatialworld.net/wp-content/uploads/2023/02/Smart-parking-system-using-IoT.jpg",
+    image: "https://dmtyylqvwgyxw.cloudfront.net/instances/132/uploads/images/custom_image/image/53848/wide_blob?v=1644514520",
     link: "#",
     github: "#",
   },
