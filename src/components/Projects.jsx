@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Data Analysis for Online Election System",
     description: "Analyzed election data to ensure transparency and detect anomalies using statistical tools.",
-    image: "/public/election.png",
+    image: "https://th.bing.com/th/id/OIP.rcGk8qCWyyD2upSGiIrLPAHaE7?cb=iwp2&rs=1&pid=ImgDetMain",
     link: "#",
     github: "#",
   },
