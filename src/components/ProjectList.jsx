@@ -8,7 +8,7 @@ const projects = [
     {
     title: "Fake Product Link Detection using AI",
     description: "Developed AI-based system to detect fraudulent product URLs to protect consumers.",
-    image: "/public/fake.png",
+    image: "https://appexchange.salesforce.com/partners/servlet/servlet.FileDownload?file=00P4V00000s9xYaUAI",
     link: "#",
     github: "#",
   },
