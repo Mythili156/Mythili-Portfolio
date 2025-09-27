@@ -14,7 +14,7 @@ export default function Resume() {
       }}
     >
       <iframe
-        src="/RESUME.pdf"
+        src="/Mythili-Final resume.pdf"
         title="My Resume"
         style={{ width: "80%", height: "90vh", border: "none" }}
       ></iframe>
