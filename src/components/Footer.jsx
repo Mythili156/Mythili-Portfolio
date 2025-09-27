@@ -169,10 +169,10 @@ export default function Footer() {
                 
               <div className="d-flex flex-wrap gap-3">
                 {[
-                  { icon: faLinkedin, href: "https://www.linkedin.com/in/mythili-m-b605a92a5/" },
-                  { icon: faGithub, href: "https://github.com/your-github" },
-                  { icon: faTwitter, href: "https://twitter.com/your-twitter" },
-                  { icon: faYoutube, href: "https://youtube.com/your-youtube" },
+                  { icon: faLinkedin, href: "https://www.linkedin.com/in/mythili-marimuthu04" },
+                  { icon: faGithub, href: "https://github.com/Mythili156" },
+                  // { icon: faTwitter, href: "https://twitter.com/your-twitter" },
+                  // { icon: faYoutube, href: "https://youtube.com/your-youtube" },
                   
                 ].map(({ icon, href }, idx) => (
                   <a key={idx} href={href} target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none" }}>
@@ -192,7 +192,7 @@ export default function Footer() {
         </div>
 
         <p className="text-center mt-5" style={{ fontSize: "1rem", color: "#c0c0c0" }}>
-          <span role="img" aria-label="heart"></span> Mythili M
+          <span role="img" aria-label="heart"></span> 
         </p>
       </div>
 
